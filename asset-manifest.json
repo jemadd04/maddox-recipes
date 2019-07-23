@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maddox-recipes/static/css/main.2263b912.chunk.css",
+    "main.js": "/maddox-recipes/static/js/main.57a47124.chunk.js",
+    "main.js.map": "/maddox-recipes/static/js/main.57a47124.chunk.js.map",
+    "runtime~main.js": "/maddox-recipes/static/js/runtime~main.e0d6b7d0.js",
+    "runtime~main.js.map": "/maddox-recipes/static/js/runtime~main.e0d6b7d0.js.map",
+    "static/js/2.35493de6.chunk.js": "/maddox-recipes/static/js/2.35493de6.chunk.js",
+    "static/js/2.35493de6.chunk.js.map": "/maddox-recipes/static/js/2.35493de6.chunk.js.map",
+    "index.html": "/maddox-recipes/index.html",
+    "precache-manifest.60fbf43dccdb55a761c0960146cbf4e9.js": "/maddox-recipes/precache-manifest.60fbf43dccdb55a761c0960146cbf4e9.js",
+    "service-worker.js": "/maddox-recipes/service-worker.js",
+    "static/css/main.2263b912.chunk.css.map": "/maddox-recipes/static/css/main.2263b912.chunk.css.map"
+  }
+}
